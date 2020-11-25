@@ -1,0 +1,27 @@
+body{
+    background-color:#ffc3a0;
+}
+
+#a{
+    font-family: 'Proza Libre', sans-serif;
+    color: #5F4B8BFF;
+}
+
+#b{
+    font-family: 'Cormorant Garamond', serif;
+    color: #5F4B8BFF;
+}
+
+#c{
+    font-family: 'Work Sans', sans-serif;
+    color: #5F4B8BFF;
+}
+
+#d{
+    font-family: 'Roboto Slab', serif;
+    color: #5F4B8BFF;
+}
+
+hr{
+	border-top: 3px double #5F4B8BFF;
+}
